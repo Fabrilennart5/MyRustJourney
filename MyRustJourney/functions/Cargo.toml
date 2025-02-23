@@ -1,0 +1,12 @@
+[package]
+name = "functions"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "basic_functions"
+path = "basic_functions.rs"
+
+[[bin]]
+name = "parameters"
+path = "parameters.rs"

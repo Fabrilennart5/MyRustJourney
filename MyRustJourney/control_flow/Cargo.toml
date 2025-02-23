@@ -1,0 +1,12 @@
+[package]
+name = "control_flow"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "if_else"
+path = "if_else.rs"
+
+[[bin]]
+name = "loops"
+path = "loops.rs"

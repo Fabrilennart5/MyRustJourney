@@ -1,0 +1,12 @@
+[package]
+name = "syntax"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "basic_syntax"
+path = "basic_syntax.rs"
+
+[[bin]]
+name = "variables"
+path = "variables.rs"
